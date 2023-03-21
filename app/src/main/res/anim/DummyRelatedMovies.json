@@ -1,0 +1,118 @@
+{
+  "id": 589712,
+  "page": 1,
+  "results": [
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8205191,
+      "item_count": 405,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "***Dramă***",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8203627,
+      "item_count": 29833,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "list13",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8211179,
+      "item_count": 674,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "myList",
+      "poster_path": null
+    },
+    {
+      "description": "Film-film yang telah ditonton",
+      "favorite_count": 0,
+      "id": 8243327,
+      "item_count": 102,
+      "iso_639_1": "id",
+      "list_type": "movie",
+      "name": "Daftar Film Yang Telah Ditonton",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 7101607,
+      "item_count": 190,
+      "iso_639_1": "zh",
+      "list_type": "movie",
+      "name": "真人电影",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 6695840,
+      "item_count": 1221,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "Top Titles from China - IMDb",
+      "poster_path": null
+    },
+    {
+      "description": "Movies in Chinese",
+      "favorite_count": 0,
+      "id": 8205895,
+      "item_count": 37,
+      "iso_639_1": "zh",
+      "list_type": "movie",
+      "name": "Movies-ZH",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 8168778,
+      "item_count": 30,
+      "iso_639_1": "zh",
+      "list_type": "movie",
+      "name": "WITH U-2019",
+      "poster_path": null
+    },
+    {
+      "description": "我看过的",
+      "favorite_count": 0,
+      "id": 7101021,
+      "item_count": 204,
+      "iso_639_1": "zh",
+      "list_type": "movie",
+      "name": "看过的电影",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 131445,
+      "item_count": 21,
+      "iso_639_1": "en",
+      "list_type": "movie",
+      "name": "2020",
+      "poster_path": null
+    },
+    {
+      "description": "",
+      "favorite_count": 0,
+      "id": 7062152,
+      "item_count": 22,
+      "iso_639_1": "zh",
+      "list_type": "movie",
+      "name": "艺术",
+      "poster_path": null
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 11
+}

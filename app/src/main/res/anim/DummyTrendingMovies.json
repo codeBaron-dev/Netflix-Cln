@@ -1,0 +1,427 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg",
+      "id": 100088,
+      "name": "The Last of Us",
+      "original_language": "en",
+      "original_name": "The Last of Us",
+      "overview": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+      "poster_path": "/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 3596.119,
+      "first_air_date": "2023-01-15",
+      "vote_average": 8.78,
+      "vote_count": 2836,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yYwKZWeCMluIXgfClxdcg8jqHV6.jpg",
+      "id": 804150,
+      "title": "Cocaine Bear",
+      "original_language": "en",
+      "original_title": "Cocaine Bear",
+      "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+      "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        53,
+        35
+      ],
+      "popularity": 1945.647,
+      "release_date": "2023-02-22",
+      "video": false,
+      "vote_average": 6.576,
+      "vote_count": 348
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tt79dbOPd9Z9ykEOpvckttgYXwH.jpg",
+      "id": 545611,
+      "title": "Everything Everywhere All at Once",
+      "original_language": "en",
+      "original_title": "Everything Everywhere All at Once",
+      "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "poster_path": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "popularity": 746.22,
+      "release_date": "2022-03-24",
+      "video": false,
+      "vote_average": 7.909,
+      "vote_count": 3986
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7vCSrzwqS5PEm0i5mHlkDfjHcnX.jpg",
+      "id": 136283,
+      "name": "The Glory",
+      "original_language": "ko",
+      "original_name": "더 글로리",
+      "overview": "After a childhood marked by pain and violence, a woman puts a carefully planned revenge scheme in motion.",
+      "poster_path": "/6jOpyXVzQyYL4QB12VRpHUxdwg1.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 616.345,
+      "first_air_date": "2022-12-30",
+      "vote_average": 8.584,
+      "vote_count": 287,
+      "origin_country": [
+        "KR"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/254iY5CzFzjnjkP0lUkLpOLvXar.jpg",
+      "id": 881164,
+      "title": "Boston Strangler",
+      "original_language": "en",
+      "original_title": "Boston Strangler",
+      "overview": "Reporters Loretta McLaughlin and Jean Cole bravely pursue the story of the Boston Strangler at great personal risk, putting their own lives on the line in their quest to uncover the truth.",
+      "poster_path": "/uVamttI4Bnu7XQQsPX0vpOTolE3.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "popularity": 181.916,
+      "release_date": "2023-03-17",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wybmSmviUXxlBmX44gtpow5Y9TB.jpg",
+      "id": 594767,
+      "title": "Shazam! Fury of the Gods",
+      "original_language": "en",
+      "original_title": "Shazam! Fury of the Gods",
+      "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "poster_path": "/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        35,
+        14
+      ],
+      "popularity": 1861.911,
+      "release_date": "2023-03-15",
+      "video": false,
+      "vote_average": 7.208,
+      "vote_count": 166
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "id": 1429,
+      "name": "Attack on Titan",
+      "original_language": "ja",
+      "original_name": "進撃の巨人",
+      "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+      "poster_path": "/sHim6U0ANsbzxcmNRYuIubBVQaz.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        16,
+        10759
+      ],
+      "popularity": 198.799,
+      "first_air_date": "2013-04-07",
+      "vote_average": 8.649,
+      "vote_count": 5060,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6Lw54zxm6BAEKJeGlabyzzR5Juu.jpg",
+      "id": 82856,
+      "name": "The Mandalorian",
+      "original_language": "en",
+      "original_name": "The Mandalorian",
+      "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+      "poster_path": "/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "popularity": 1142.94,
+      "first_air_date": "2019-11-12",
+      "vote_average": 8.482,
+      "vote_count": 8605,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eN6R6mb3ntHwA3y3MhSwpP78ljN.jpg",
+      "id": 722149,
+      "title": "Luther: The Fallen Sun",
+      "original_language": "en",
+      "original_title": "Luther: The Fallen Sun",
+      "overview": "A gruesome serial killer is terrorizing London while brilliant but disgraced detective John Luther sits behind bars. Haunted by his failure to capture the cyber psychopath who now taunts him, Luther decides to break out of prison to finish the job by any means necessary.",
+      "poster_path": "/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        53,
+        80,
+        28,
+        18
+      ],
+      "popularity": 562.805,
+      "release_date": "2023-02-24",
+      "video": false,
+      "vote_average": 6.88,
+      "vote_count": 303
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ae4xZiU7IeFVrvXxm2GjdcTrBm.jpg",
+      "id": 934433,
+      "title": "Scream VI",
+      "original_language": "en",
+      "original_title": "Scream VI",
+      "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+      "poster_path": "/aePBN8ffLCHoUXp8lkA5P29CXdx.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "popularity": 850.523,
+      "release_date": "2023-03-08",
+      "video": false,
+      "vote_average": 7.384,
+      "vote_count": 345
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r7Dfg9aRZ78gJsmDlCirIIlNH3d.jpg",
+      "id": 785084,
+      "title": "The Whale",
+      "original_language": "en",
+      "original_title": "The Whale",
+      "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+      "poster_path": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 1284.088,
+      "release_date": "2022-12-09",
+      "video": false,
+      "vote_average": 8.054,
+      "vote_count": 1508
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v2LilmCylr3bL9TCZSj6syjowZh.jpg",
+      "id": 937278,
+      "title": "A Man Called Otto",
+      "original_language": "en",
+      "original_title": "A Man Called Otto",
+      "overview": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.",
+      "poster_path": "/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "popularity": 909.85,
+      "release_date": "2022-12-28",
+      "video": false,
+      "vote_average": 7.897,
+      "vote_count": 808
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+      "id": 615777,
+      "title": "Babylon",
+      "original_language": "en",
+      "original_title": "Babylon",
+      "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films and to sound films in the late 1920s.",
+      "poster_path": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "popularity": 349.481,
+      "release_date": "2022-12-22",
+      "video": false,
+      "vote_average": 7.558,
+      "vote_count": 1438
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
+      "id": 603692,
+      "title": "John Wick: Chapter 4",
+      "original_language": "en",
+      "original_title": "John Wick: Chapter 4",
+      "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "popularity": 678.912,
+      "release_date": "2023-03-22",
+      "video": false,
+      "vote_average": 8.976,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6ZZjNFjTlO9F25467CruIibwuxl.jpg",
+      "id": 739405,
+      "title": "Operation Fortune: Ruse de Guerre",
+      "original_language": "en",
+      "original_title": "Operation Fortune: Ruse de Guerre",
+      "overview": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+      "poster_path": "/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        53,
+        35
+      ],
+      "popularity": 192.481,
+      "release_date": "2023-01-04",
+      "video": false,
+      "vote_average": 6.811,
+      "vote_count": 220
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+      "id": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "original_language": "en",
+      "original_title": "Puss in Boots: The Last Wish",
+      "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+      "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "popularity": 2712.044,
+      "release_date": "2022-12-07",
+      "video": false,
+      "vote_average": 8.351,
+      "vote_count": 4731
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+      "id": 505642,
+      "title": "Black Panther: Wakanda Forever",
+      "original_language": "en",
+      "original_title": "Black Panther: Wakanda Forever",
+      "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+      "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "popularity": 2152.146,
+      "release_date": "2022-11-09",
+      "video": false,
+      "vote_average": 7.319,
+      "vote_count": 4204
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qzSjrYSZAWrjhg6Yf3hCcfJE4o0.jpg",
+      "id": 85720,
+      "name": "Shadow and Bone",
+      "original_language": "en",
+      "original_name": "Shadow and Bone",
+      "overview": "In a world cleaved in two by a massive barrier of perpetual darkness, a young soldier uncovers a power that might finally unite her country. But as she struggles to hone her power, dangerous forces plot against her. Thugs, thieves, assassins and saints are at war now, and it will take more than magic to survive.",
+      "poster_path": "/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "popularity": 364.327,
+      "first_air_date": "2021-04-23",
+      "vote_average": 8.089,
+      "vote_count": 1015,
+      "origin_country": [
+        "US"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ovM06PdF3M8wvKb06i4sjW3xoww.jpg",
+      "id": 76600,
+      "title": "Avatar: The Way of Water",
+      "original_language": "en",
+      "original_title": "Avatar: The Way of Water",
+      "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "popularity": 1290.489,
+      "release_date": "2022-12-14",
+      "video": false,
+      "vote_average": 7.73,
+      "vote_count": 5797
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+      "id": 677179,
+      "title": "Creed III",
+      "original_language": "en",
+      "original_title": "Creed III",
+      "overview": "After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damien Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damien — a fighter who has nothing to lose.",
+      "poster_path": "/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 1234.287,
+      "release_date": "2023-03-01",
+      "video": false,
+      "vote_average": 7.098,
+      "vote_count": 387
+    }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}
